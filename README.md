@@ -29,7 +29,7 @@ To use this project, follow these steps:
 This project was developed as part of the Data 225 course at San Jose State University. This is a team project for academic purposes.
 
 ## Contact
-For questions or more information, please reach out via:
+If you find any issues or have suggestions, feel free to open a GitHub issue:
 - **GitHub Issues**: [Open an Issue](https://github.com/svarshneysjsu/AWS-Enabled-Data-Pipeline-for-Weather-Data-Analysis/issues)
 
 ---
